@@ -1,0 +1,277 @@
+ * {
+	  padding:0px;
+	  margin:0px 0px 0px 0px;
+	  font-family:sans-serif;
+ }
+ #div1 {
+	 margin:auto;
+	 border:1px solid black;
+	
+ }
+
+
+header {
+	 width:100%;
+	 height:60px;
+	 background:#D87B29;
+	 border-bottom:1px solid black;
+ }
+ 
+ header h2 {
+	 text-align:center;
+	 color:white;
+	 padding:13px;
+ }
+ #sec1 nav {
+     list-style:none;
+     margin:0;
+     padding:20px;
+     text-align:center;
+	 
+ }
+ 
+ #sec1 nav li {
+	 display:inline-block;
+	 width:5%;
+	 color:white;
+	
+ }
+ nav ol li a {
+	 text-decoration:none;
+ }
+ 
+  nav ol li a:link {
+	 color:white;
+ }
+ 
+   nav ol li a:visited {
+	 color:white;
+ }
+  nav ol li a:hover{
+	 color:orange;
+ }
+  nav ol li a:active {
+	 color:white;
+ }
+ #sec1 {
+	 width:100%;
+	 height:700px;
+	 background-image:url(photo/pic5.jpg);
+	 background-size:100%;
+	 
+ }
+ 
+ #sec1 article {
+	 color:white;
+	 font-size:90px;
+	 padding:140px;
+	 
+ }
+ #sec2 {
+	 width:100%;
+	 height:650px;
+	
+	 background-color:#EDE9E1;
+ }
+ 
+ #sec2 article {
+	 height:500px;
+	 float:left;
+	 margin:50px 10px 0px 0px;
+ }
+ 
+ #art2,#art3,#art4 {
+	 width:18%;
+	 height:500px;
+ }
+ #art5 {
+	 width:30%;
+	 height:400px;
+	 
+	
+ }
+ #div2 {
+	 text-align:justify;
+	 padding:85px;
+	
+ }
+ 
+ #art5 h3 {
+	 text-align:center;
+	 font-size:48px;
+ }
+ 
+#sec2 #art2 {
+	background-image:url("photo/pic6.jpg");
+	background-size:100%;
+}
+#sec2 #art3 {
+	background-image:url("photo/pic13.jpg");
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+}
+#sec2 #art4 {
+	background-image:url("photo/pic10.jpg");
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+}
+
+
+
+ #sec3 {
+	 width:100%;
+	 height:850px;
+	 padding:0px;
+	 background-color:#EDE9E1;
+ }
+ 
+ #sec3 article {
+	 float:left;
+	 width:22%;
+	 height:350px;
+	 border:3px solid #D87B29;
+	 margin:40px 0px 0px 120px;
+	 border-radius:30px;
+ }
+ #sec3 article p {
+	 text-align:center;
+	 padding:10px;
+ }
+ #art11 img{
+	 border:1px solid #D87B29;
+	 border-radius:30px 30px 0px 0px;
+	 width:100%;
+	 height:85%;
+ }
+  #art6 img {
+	 border:1px solid #D87B29;
+	 border-radius:30px 30px 0px 0px;
+	 width:100%;
+	 height:85%;
+	 
+ }
+  #art7 img{
+	 border:1px solid #D87B29;
+	 border-radius:30px 30px 0px 0px;
+	 width:100%;
+	 height:85%;
+ }
+  #art8 img{
+	 border:1px solid #D87B29;
+	 border-radius:30px 30px 0px 0px;
+	 width:100%;
+	 height:85%;
+ }
+  #art9 img{
+	 border:1px solid  #D87B29;
+	 border-radius:30px 30px 0px 0px;
+	 width:100%;
+	 height:85%;
+	 
+ }
+  #art10 img{
+	 border:1px solid #D87B29;
+	 border-radius:30px 30px 0px 0px;
+	 width:100%;
+	 height:85%;
+ }
+ 
+ #sec3 h1 {
+	 text-align:center;
+	 font-size:40px;
+ }
+ 
+ #sec4 {
+	 width:100%;
+	 height:700px;
+	 border-bottom:1px solid black;
+	 background-color:#EDE9E1;
+ }
+ 
+ #sec4 article {
+	 float:left;
+	 width:18%;
+	 height:500px;
+	 border:5px solid white;
+	 margin:20px 0px 0px 80px;
+ }
+ #sec4 h1,#sec4 p,#sec4 h5 {
+	 text-align:center;
+	 padding:10px;
+ }
+ #sec4 #art12 img {
+	 width:100%;
+	 height:80%;
+ }
+  #sec4 #art13 img{
+	 width:100%;
+	 height:80%;
+ }
+  #sec4 #art14 img{
+	 width:100%;
+	 height:80%;
+ }
+ #sec4 #art15 img{
+	 width:100%;
+	 height:80%;
+ }
+ 
+ #sec5 {
+	 width:100%;
+	 height:600px;
+	 background-image:url("photo/pic4.jpg");
+	 background-size:100% 100%;
+	 border-bottom:1px solid black;
+ }
+ #sec5 article h2 {
+	 color:white;
+	 text-align:center;
+	 padding:20px;
+ }
+  #sec5 article table {
+	 
+	 margin:auto;
+  }
+  
+  #sec5 article table input {
+	  padding:10px;
+	  width:100%;
+  }
+ tr,th{
+	 width:80%;
+ }
+ #art17 p {
+	 color:white;
+	 text-align:center;
+	 padding:15px;
+ }
+ 
+ #sec5 article {
+	 float:left;
+	 width:45%;
+	 height:450px;
+	 margin:30px 0px 0px 50px;
+ }
+ footer {
+	 width:100%;
+	 height:90px;
+	 background-color:#492D24;
+	 border-bottom:1px solid black;
+ }
+ footer nav {
+     list-style:none;
+     margin:0px;
+     padding:10px;
+     text-align:center;
+ }
+ footer nav li {
+	 
+	 width:5%;
+	 display:inline-block;
+	  text-align:center;
+	 
+ }
+ footer p {
+	 color:white;
+	 text-align:center;
+ }
